@@ -15,3 +15,10 @@ E:\Projects\_other\Monkeys.Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\
 E:\Projects\_other\Monkeys.Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.AssemblyInfo.cs
 E:\Projects\_other\Monkeys.Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.dll
 E:\Projects\_other\Monkeys.Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.pdb
+D:\GitHub\Monkeys-Project\Monkeys.Project.DTO\bin\Debug\netstandard2.0\Monkeys.Project.DTO.deps.json
+D:\GitHub\Monkeys-Project\Monkeys.Project.DTO\bin\Debug\netstandard2.0\Monkeys.Project.DTO.dll
+D:\GitHub\Monkeys-Project\Monkeys.Project.DTO\bin\Debug\netstandard2.0\Monkeys.Project.DTO.pdb
+D:\GitHub\Monkeys-Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.csprojResolveAssemblyReference.cache
+D:\GitHub\Monkeys-Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.AssemblyInfo.cs
+D:\GitHub\Monkeys-Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.dll
+D:\GitHub\Monkeys-Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.pdb

@@ -431,3 +431,4 @@ E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project
 E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.csproj.CopyComplete
 E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.dll
 E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.pdb
+D:\GitHub\Monkeys-Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.csprojResolveAssemblyReference.cache

@@ -23,3 +23,6 @@ E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0
 E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.dll
 E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.pdb
 E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\bin\Debug\netstandard2.0\hibernate.cfg.xml
+D:\GitHub\Monkeys-Project\Monkeys.Project.Data\bin\Debug\netstandard2.0\Monkeys.Project.Data.deps.json
+D:\GitHub\Monkeys-Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.csprojResolveAssemblyReference.cache
+D:\GitHub\Monkeys-Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.AssemblyInfo.cs

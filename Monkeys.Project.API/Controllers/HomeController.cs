@@ -13,8 +13,8 @@ namespace Monkeys.Project.API.Controllers
         {
             ViewBag.Title = "Home Page";
 
-            IMasterUserService x = new MasterUserService();
-            var xxx = x.FindAll();
+            //IMasterUserService x = new MasterUserService();
+            //var xxx = x.FindAll();
 
             return View();
         }

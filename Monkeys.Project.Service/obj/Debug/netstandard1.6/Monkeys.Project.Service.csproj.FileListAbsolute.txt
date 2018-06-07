@@ -1,0 +1,7 @@
+D:\GitHub\Monkeys-Project\Monkeys.Project.Service\bin\Debug\netstandard1.6\Monkeys.Project.Service.deps.json
+D:\GitHub\Monkeys-Project\Monkeys.Project.Service\bin\Debug\netstandard1.6\Monkeys.Project.Service.dll
+D:\GitHub\Monkeys-Project\Monkeys.Project.Service\bin\Debug\netstandard1.6\Monkeys.Project.Service.pdb
+D:\GitHub\Monkeys-Project\Monkeys.Project.Service\obj\Debug\netstandard1.6\Monkeys.Project.Service.AssemblyInfo.cs
+D:\GitHub\Monkeys-Project\Monkeys.Project.Service\obj\Debug\netstandard1.6\Monkeys.Project.Service.dll
+D:\GitHub\Monkeys-Project\Monkeys.Project.Service\obj\Debug\netstandard1.6\Monkeys.Project.Service.pdb
+D:\GitHub\Monkeys-Project\Monkeys.Project.Service\obj\Debug\netstandard1.6\Monkeys.Project.Service.csprojResolveAssemblyReference.cache

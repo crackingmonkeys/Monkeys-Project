@@ -14,3 +14,9 @@ G:\My Drive\Monkeys.Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils
 G:\My Drive\Monkeys.Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.AssemblyInfo.cs
 G:\My Drive\Monkeys.Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.dll
 G:\My Drive\Monkeys.Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.pdb
+D:\GitHub\Monkeys-Project\Monkeys.Utils\bin\Debug\netstandard1.6\Monkeys.Utils.deps.json
+D:\GitHub\Monkeys-Project\Monkeys.Utils\bin\Debug\netstandard1.6\Monkeys.Utils.dll
+D:\GitHub\Monkeys-Project\Monkeys.Utils\bin\Debug\netstandard1.6\Monkeys.Utils.pdb
+D:\GitHub\Monkeys-Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.AssemblyInfo.cs
+D:\GitHub\Monkeys-Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.dll
+D:\GitHub\Monkeys-Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.pdb

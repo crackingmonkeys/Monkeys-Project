@@ -3,17 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monkeys.Project.Web", "Monkeys.Project.Web\Monkeys.Project.Web.csproj", "{3E3D017A-DD08-45F5-AC3C-1E2184744AD7}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monkeys.Utils", "Monkeys.Utils\Monkeys.Utils.csproj", "{4B83D92E-C178-440D-AABA-B26D2AECBD00}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monkeys.Project.API", "Monkeys.Project.API\Monkeys.Project.API.csproj", "{A1EBF315-D37B-4403-A889-E0F05D6AF622}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monkeys.Project.Data", "Monkeys.Project.Data\Monkeys.Project.Data.csproj", "{37579D2F-1CC2-4043-8F78-A870761A274E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monkeys.Project.Service", "Monkeys.Project.Service\Monkeys.Project.Service.csproj", "{76E4E3DE-FF64-4E38-9A21-FBE3CF1CD65E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monkeys.Project.DTO", "Monkeys.Project.DTO\Monkeys.Project.DTO.csproj", "{F327EE8D-ECB1-4102-9797-26ECCDFA51E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monkeys.Project.WebAPI", "Monkeys.Project.WebAPI\Monkeys.Project.WebAPI.csproj", "{C73FEAC9-6448-4BF5-94D4-CE2C9C2CE6FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,30 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3E3D017A-DD08-45F5-AC3C-1E2184744AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3E3D017A-DD08-45F5-AC3C-1E2184744AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3E3D017A-DD08-45F5-AC3C-1E2184744AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3E3D017A-DD08-45F5-AC3C-1E2184744AD7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4B83D92E-C178-440D-AABA-B26D2AECBD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4B83D92E-C178-440D-AABA-B26D2AECBD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B83D92E-C178-440D-AABA-B26D2AECBD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B83D92E-C178-440D-AABA-B26D2AECBD00}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A1EBF315-D37B-4403-A889-E0F05D6AF622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A1EBF315-D37B-4403-A889-E0F05D6AF622}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A1EBF315-D37B-4403-A889-E0F05D6AF622}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A1EBF315-D37B-4403-A889-E0F05D6AF622}.Release|Any CPU.Build.0 = Release|Any CPU
-		{37579D2F-1CC2-4043-8F78-A870761A274E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{37579D2F-1CC2-4043-8F78-A870761A274E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{37579D2F-1CC2-4043-8F78-A870761A274E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{37579D2F-1CC2-4043-8F78-A870761A274E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{76E4E3DE-FF64-4E38-9A21-FBE3CF1CD65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{76E4E3DE-FF64-4E38-9A21-FBE3CF1CD65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76E4E3DE-FF64-4E38-9A21-FBE3CF1CD65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76E4E3DE-FF64-4E38-9A21-FBE3CF1CD65E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F327EE8D-ECB1-4102-9797-26ECCDFA51E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F327EE8D-ECB1-4102-9797-26ECCDFA51E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F327EE8D-ECB1-4102-9797-26ECCDFA51E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F327EE8D-ECB1-4102-9797-26ECCDFA51E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C73FEAC9-6448-4BF5-94D4-CE2C9C2CE6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73FEAC9-6448-4BF5-94D4-CE2C9C2CE6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73FEAC9-6448-4BF5-94D4-CE2C9C2CE6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73FEAC9-6448-4BF5-94D4-CE2C9C2CE6FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

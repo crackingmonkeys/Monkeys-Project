@@ -4328,23 +4328,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MONKEYS\\.nuget\\packages\\": {},
+    "C:\\Users\\pranop_boo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\_other\\Monkeys.Project\\Monkeys.Utils\\Monkeys.Utils.csproj",
+      "projectUniqueName": "D:\\GitHub\\Monkeys-Project\\Monkeys.Utils\\Monkeys.Utils.csproj",
       "projectName": "Monkeys.Utils",
-      "projectPath": "E:\\Projects\\_other\\Monkeys.Project\\Monkeys.Utils\\Monkeys.Utils.csproj",
-      "packagesPath": "C:\\Users\\MONKEYS\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\_other\\Monkeys.Project\\Monkeys.Utils\\obj\\",
+      "projectPath": "D:\\GitHub\\Monkeys-Project\\Monkeys.Utils\\Monkeys.Utils.csproj",
+      "packagesPath": "C:\\Users\\pranop_boo\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\Monkeys-Project\\Monkeys.Utils\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\MONKEYS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pranop_boo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -13,3 +13,10 @@ E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard
 E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard2.0\Monkeys.Project.Service.dll
 E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard2.0\Monkeys.Project.Service.pdb
 E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\bin\Debug\netstandard2.0\hibernate.cfg.xml
+D:\GitHub\Monkeys-Project\Monkeys.Project.Service\bin\Debug\netstandard2.0\Monkeys.Project.Service.deps.json
+D:\GitHub\Monkeys-Project\Monkeys.Project.Service\bin\Debug\netstandard2.0\Monkeys.Project.Service.dll
+D:\GitHub\Monkeys-Project\Monkeys.Project.Service\bin\Debug\netstandard2.0\Monkeys.Project.Service.pdb
+D:\GitHub\Monkeys-Project\Monkeys.Project.Service\obj\Debug\netstandard2.0\Monkeys.Project.Service.csprojResolveAssemblyReference.cache
+D:\GitHub\Monkeys-Project\Monkeys.Project.Service\obj\Debug\netstandard2.0\Monkeys.Project.Service.AssemblyInfo.cs
+D:\GitHub\Monkeys-Project\Monkeys.Project.Service\obj\Debug\netstandard2.0\Monkeys.Project.Service.dll
+D:\GitHub\Monkeys-Project\Monkeys.Project.Service\obj\Debug\netstandard2.0\Monkeys.Project.Service.pdb
