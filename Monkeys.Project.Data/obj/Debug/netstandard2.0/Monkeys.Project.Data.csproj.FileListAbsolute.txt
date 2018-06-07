@@ -1,0 +1,25 @@
+G:\My Drive\Monkeys.Project\Monkeys.Project.Data\bin\Debug\netstandard2.0\Monkeys.Project.Data.deps.json
+G:\My Drive\Monkeys.Project\Monkeys.Project.Data\bin\Debug\netstandard2.0\Monkeys.Project.Data.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.Data\bin\Debug\netstandard2.0\Monkeys.Project.Data.pdb
+G:\My Drive\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.csprojResolveAssemblyReference.cache
+G:\My Drive\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.csproj.CoreCompileInputs.cache
+G:\My Drive\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.AssemblyInfoInputs.cache
+G:\My Drive\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.AssemblyInfo.cs
+G:\My Drive\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.pdb
+G:\My Drive\Monkeys.Project\Monkeys.Project.Data\bin\Debug\netstandard2.0\Monkeys.Project.DTO.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.Data\bin\Debug\netstandard2.0\Monkeys.Project.DTO.pdb
+G:\My Drive\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.csproj.CopyComplete
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\bin\Debug\netstandard2.0\Monkeys.Project.Data.deps.json
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\bin\Debug\netstandard2.0\Monkeys.Project.Data.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\bin\Debug\netstandard2.0\Monkeys.Project.Data.pdb
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\bin\Debug\netstandard2.0\Monkeys.Project.DTO.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\bin\Debug\netstandard2.0\Monkeys.Project.DTO.pdb
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.csprojResolveAssemblyReference.cache
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.csproj.CoreCompileInputs.cache
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.AssemblyInfoInputs.cache
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.AssemblyInfo.cs
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.csproj.CopyComplete
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\obj\Debug\netstandard2.0\Monkeys.Project.Data.pdb
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Data\bin\Debug\netstandard2.0\hibernate.cfg.xml

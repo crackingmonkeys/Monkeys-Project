@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Monkeys.Project.Data\Monkeys.Project.Data.csproj" />
+    <ProjectReference Include="..\Monkeys.Project.DTO\Monkeys.Project.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

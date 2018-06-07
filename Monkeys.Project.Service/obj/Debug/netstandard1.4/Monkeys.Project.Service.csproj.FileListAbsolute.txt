@@ -1,0 +1,16 @@
+H:\My Drive\Monkeys.Project\Monkeys.Project.Service\bin\Debug\netstandard1.4\Monkeys.Project.Service.deps.json
+H:\My Drive\Monkeys.Project\Monkeys.Project.Service\bin\Debug\netstandard1.4\Monkeys.Project.Service.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.Service\bin\Debug\netstandard1.4\Monkeys.Project.Service.pdb
+H:\My Drive\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard1.4\Monkeys.Project.Service.csprojResolveAssemblyReference.cache
+H:\My Drive\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard1.4\Monkeys.Project.Service.AssemblyInfo.cs
+H:\My Drive\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard1.4\Monkeys.Project.Service.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard1.4\Monkeys.Project.Service.pdb
+G:\My Drive\Monkeys.Project\Monkeys.Project.Service\bin\Debug\netstandard1.4\Monkeys.Project.Service.deps.json
+G:\My Drive\Monkeys.Project\Monkeys.Project.Service\bin\Debug\netstandard1.4\Monkeys.Project.Service.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.Service\bin\Debug\netstandard1.4\Monkeys.Project.Service.pdb
+G:\My Drive\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard1.4\Monkeys.Project.Service.csprojResolveAssemblyReference.cache
+G:\My Drive\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard1.4\Monkeys.Project.Service.csproj.CoreCompileInputs.cache
+G:\My Drive\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard1.4\Monkeys.Project.Service.AssemblyInfoInputs.cache
+G:\My Drive\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard1.4\Monkeys.Project.Service.AssemblyInfo.cs
+G:\My Drive\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard1.4\Monkeys.Project.Service.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard1.4\Monkeys.Project.Service.pdb

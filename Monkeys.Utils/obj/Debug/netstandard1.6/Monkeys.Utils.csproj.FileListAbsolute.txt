@@ -1,0 +1,16 @@
+H:\My Drive\Monkeys.Project\Monkeys.Utils\bin\Debug\netstandard1.6\Monkeys.Utils.deps.json
+H:\My Drive\Monkeys.Project\Monkeys.Utils\bin\Debug\netstandard1.6\Monkeys.Utils.dll
+H:\My Drive\Monkeys.Project\Monkeys.Utils\bin\Debug\netstandard1.6\Monkeys.Utils.pdb
+H:\My Drive\Monkeys.Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.csprojResolveAssemblyReference.cache
+H:\My Drive\Monkeys.Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.AssemblyInfo.cs
+H:\My Drive\Monkeys.Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.dll
+H:\My Drive\Monkeys.Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.pdb
+G:\My Drive\Monkeys.Project\Monkeys.Utils\bin\Debug\netstandard1.6\Monkeys.Utils.deps.json
+G:\My Drive\Monkeys.Project\Monkeys.Utils\bin\Debug\netstandard1.6\Monkeys.Utils.dll
+G:\My Drive\Monkeys.Project\Monkeys.Utils\bin\Debug\netstandard1.6\Monkeys.Utils.pdb
+G:\My Drive\Monkeys.Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.csprojResolveAssemblyReference.cache
+G:\My Drive\Monkeys.Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.csproj.CoreCompileInputs.cache
+G:\My Drive\Monkeys.Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.AssemblyInfoInputs.cache
+G:\My Drive\Monkeys.Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.AssemblyInfo.cs
+G:\My Drive\Monkeys.Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.dll
+G:\My Drive\Monkeys.Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.pdb

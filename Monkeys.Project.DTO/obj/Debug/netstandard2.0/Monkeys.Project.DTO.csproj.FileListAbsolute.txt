@@ -1,0 +1,17 @@
+G:\My Drive\Monkeys.Project\Monkeys.Project.DTO\bin\Debug\netstandard2.0\Monkeys.Project.DTO.deps.json
+G:\My Drive\Monkeys.Project\Monkeys.Project.DTO\bin\Debug\netstandard2.0\Monkeys.Project.DTO.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.DTO\bin\Debug\netstandard2.0\Monkeys.Project.DTO.pdb
+G:\My Drive\Monkeys.Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.csprojResolveAssemblyReference.cache
+G:\My Drive\Monkeys.Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.csproj.CoreCompileInputs.cache
+G:\My Drive\Monkeys.Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.AssemblyInfoInputs.cache
+G:\My Drive\Monkeys.Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.AssemblyInfo.cs
+G:\My Drive\Monkeys.Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.pdb
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.DTO\bin\Debug\netstandard2.0\Monkeys.Project.DTO.deps.json
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.DTO\bin\Debug\netstandard2.0\Monkeys.Project.DTO.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.DTO\bin\Debug\netstandard2.0\Monkeys.Project.DTO.pdb
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.csproj.CoreCompileInputs.cache
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.AssemblyInfoInputs.cache
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.AssemblyInfo.cs
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.DTO\obj\Debug\netstandard2.0\Monkeys.Project.DTO.pdb

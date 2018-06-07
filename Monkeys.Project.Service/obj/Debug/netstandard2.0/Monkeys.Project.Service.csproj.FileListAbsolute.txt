@@ -1,0 +1,15 @@
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\bin\Debug\netstandard2.0\Monkeys.Project.Service.deps.json
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\bin\Debug\netstandard2.0\Monkeys.Project.Service.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\bin\Debug\netstandard2.0\Monkeys.Project.Service.pdb
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\bin\Debug\netstandard2.0\Monkeys.Project.Data.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\bin\Debug\netstandard2.0\Monkeys.Project.DTO.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\bin\Debug\netstandard2.0\Monkeys.Project.Data.pdb
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\bin\Debug\netstandard2.0\Monkeys.Project.DTO.pdb
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard2.0\Monkeys.Project.Service.csprojResolveAssemblyReference.cache
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard2.0\Monkeys.Project.Service.csproj.CoreCompileInputs.cache
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard2.0\Monkeys.Project.Service.AssemblyInfoInputs.cache
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard2.0\Monkeys.Project.Service.AssemblyInfo.cs
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard2.0\Monkeys.Project.Service.csproj.CopyComplete
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard2.0\Monkeys.Project.Service.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\obj\Debug\netstandard2.0\Monkeys.Project.Service.pdb
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.Service\bin\Debug\netstandard2.0\hibernate.cfg.xml

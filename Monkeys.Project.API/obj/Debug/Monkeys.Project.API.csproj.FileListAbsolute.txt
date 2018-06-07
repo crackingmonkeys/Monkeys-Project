@@ -1,0 +1,433 @@
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\ApplicationInsights.config
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\csc.exe
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\csc.exe.config
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\csc.rsp
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\csi.exe
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\csi.rsp
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.AppContext.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.Collections.Immutable.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.IO.FileSystem.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.Reflection.Metadata.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\vbc.exe
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\vbc.exe.config
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\vbc.rsp
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\VBCSCompiler.exe
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\VBCSCompiler.exe.config
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.API.dll.config
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.API.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.API.pdb
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Antlr3.Runtime.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.Agent.Intercept.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.DependencyCollector.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.Web.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.WindowsServer.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.ApplicationInsights.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.Web.Infrastructure.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Newtonsoft.Json.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Http.Formatting.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Helpers.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Http.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Http.WebHost.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Mvc.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Optimization.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Razor.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.Deployment.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.Razor.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\WebGrease.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Newtonsoft.Json.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Http.Formatting.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Helpers.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Http.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Http.WebHost.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Mvc.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Optimization.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Razor.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.Deployment.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.Razor.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Antlr3.Runtime.pdb
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.ApplicationInsights.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.DependencyCollector.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.WindowsServer.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.Web.xml
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.csprojResolveAssemblyReference.cache
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.dll
+H:\My Drive\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.pdb
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\ApplicationInsights.config
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\csc.exe
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\csc.exe.config
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\csc.rsp
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\csi.exe
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\csi.rsp
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.AppContext.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.Collections.Immutable.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.IO.FileSystem.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.Reflection.Metadata.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\vbc.exe
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\vbc.exe.config
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\vbc.rsp
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\VBCSCompiler.exe
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\roslyn\VBCSCompiler.exe.config
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.API.dll.config
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.API.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.API.pdb
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.Win32.Primitives.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\netstandard.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.AppContext.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Collections.Concurrent.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Collections.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Collections.NonGeneric.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Collections.Specialized.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.ComponentModel.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.ComponentModel.EventBasedAsync.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.ComponentModel.Primitives.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.ComponentModel.TypeConverter.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Console.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Data.Common.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.Contracts.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.Debug.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.FileVersionInfo.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.Process.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.StackTrace.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.TextWriterTraceListener.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.Tools.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.TraceSource.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.Tracing.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Drawing.Primitives.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Dynamic.Runtime.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Globalization.Calendars.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Globalization.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Globalization.Extensions.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.IO.Compression.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.IO.Compression.ZipFile.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.IO.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.IO.FileSystem.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.IO.FileSystem.DriveInfo.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.IO.FileSystem.Primitives.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.IO.FileSystem.Watcher.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.IO.IsolatedStorage.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.IO.MemoryMappedFiles.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.IO.Pipes.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.IO.UnmanagedMemoryStream.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Linq.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Linq.Expressions.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Linq.Parallel.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Linq.Queryable.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Http.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Net.NameResolution.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Net.NetworkInformation.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Ping.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Primitives.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Requests.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Security.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Sockets.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Net.WebHeaderCollection.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Net.WebSockets.Client.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Net.WebSockets.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.ObjectModel.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Reflection.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Reflection.Extensions.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Reflection.Primitives.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Resources.Reader.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Resources.ResourceManager.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Resources.Writer.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.CompilerServices.VisualC.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.Extensions.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.Handles.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.InteropServices.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.Numerics.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.Serialization.Formatters.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.Serialization.Json.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.Serialization.Primitives.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.Serialization.Xml.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Security.Claims.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Security.Cryptography.Algorithms.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Security.Cryptography.Csp.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Security.Cryptography.Encoding.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Security.Cryptography.Primitives.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Security.Cryptography.X509Certificates.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Security.Principal.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Security.SecureString.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Text.Encoding.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Text.Encoding.Extensions.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Text.RegularExpressions.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Threading.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Threading.Overlapped.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Threading.Tasks.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Threading.Tasks.Parallel.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Threading.Thread.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Threading.ThreadPool.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Threading.Timer.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.ValueTuple.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Xml.ReaderWriter.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Xml.XDocument.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Xml.XmlDocument.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Xml.XmlSerializer.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Xml.XPath.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Xml.XPath.XDocument.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Antlr3.Runtime.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.Agent.Intercept.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.DependencyCollector.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.Web.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.WindowsServer.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.ApplicationInsights.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.Web.Infrastructure.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.Data.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.DTO.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Newtonsoft.Json.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Http.Formatting.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Helpers.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Http.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Http.WebHost.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Mvc.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Optimization.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Razor.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.Deployment.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.Razor.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\WebGrease.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.Data.pdb
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.DTO.pdb
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Newtonsoft.Json.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Http.Formatting.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Helpers.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Http.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Http.WebHost.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Mvc.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Optimization.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Razor.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.Deployment.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.Razor.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Antlr3.Runtime.pdb
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.ApplicationInsights.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.DependencyCollector.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.WindowsServer.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.Web.xml
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.csprojResolveAssemblyReference.cache
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.csproj.CoreCompileInputs.cache
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.csproj.CopyComplete
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.dll
+G:\My Drive\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.pdb
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\ApplicationInsights.config
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\csc.exe
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\csc.exe.config
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\csc.rsp
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\csi.exe
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\csi.rsp
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.AppContext.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\vbc.exe
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\vbc.exe.config
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\vbc.rsp
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\VBCSCompiler.exe
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.API.dll.config
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.API.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.API.pdb
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.Win32.Primitives.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\netstandard.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.AppContext.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Collections.Concurrent.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Collections.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Collections.NonGeneric.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Collections.Specialized.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.ComponentModel.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.ComponentModel.EventBasedAsync.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.ComponentModel.Primitives.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.ComponentModel.TypeConverter.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Console.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Data.Common.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.Contracts.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.Debug.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.Process.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.StackTrace.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.Tools.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.TraceSource.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Diagnostics.Tracing.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Drawing.Primitives.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Dynamic.Runtime.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Globalization.Calendars.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Globalization.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Globalization.Extensions.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.IO.Compression.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.IO.Compression.ZipFile.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.IO.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.IO.FileSystem.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.IO.FileSystem.DriveInfo.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.IO.FileSystem.Primitives.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.IO.FileSystem.Watcher.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.IO.IsolatedStorage.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.IO.MemoryMappedFiles.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.IO.Pipes.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.IO.UnmanagedMemoryStream.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Linq.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Linq.Expressions.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Linq.Parallel.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Linq.Queryable.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Http.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Net.NameResolution.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Net.NetworkInformation.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Ping.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Primitives.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Requests.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Security.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Sockets.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Net.WebHeaderCollection.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Net.WebSockets.Client.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Net.WebSockets.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.ObjectModel.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Reflection.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Reflection.Extensions.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Reflection.Primitives.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Resources.Reader.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Resources.ResourceManager.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Resources.Writer.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.Extensions.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.Handles.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.InteropServices.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.Numerics.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.Serialization.Formatters.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.Serialization.Json.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.Serialization.Primitives.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Runtime.Serialization.Xml.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Security.Claims.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Security.Cryptography.Algorithms.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Security.Cryptography.Csp.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Security.Cryptography.Encoding.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Security.Cryptography.Primitives.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Security.Principal.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Security.SecureString.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Text.Encoding.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Text.Encoding.Extensions.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Text.RegularExpressions.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Threading.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Threading.Overlapped.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Threading.Tasks.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Threading.Tasks.Parallel.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Threading.Thread.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Threading.ThreadPool.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Threading.Timer.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.ValueTuple.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Xml.ReaderWriter.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Xml.XDocument.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Xml.XmlDocument.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Xml.XmlSerializer.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Xml.XPath.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Xml.XPath.XDocument.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Antlr3.Runtime.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Iesi.Collections.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.Web.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.DTO.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.Service.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Newtonsoft.Json.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\NHibernate.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Remotion.Linq.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Remotion.Linq.EagerFetching.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Http.Formatting.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Helpers.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Http.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Http.WebHost.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Mvc.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Optimization.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Razor.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.Razor.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\WebGrease.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.Data.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.DTO.pdb
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.Service.pdb
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Antlr3.Runtime.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Iesi.Collections.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\NHibernate.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Remotion.Linq.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Remotion.Linq.EagerFetching.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Newtonsoft.Json.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Net.Http.Formatting.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Helpers.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Http.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Http.WebHost.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Mvc.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Optimization.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.Razor.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\System.Web.WebPages.Razor.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Microsoft.AI.Web.xml
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\bin\Monkeys.Project.Data.pdb
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.csprojResolveAssemblyReference.cache
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.csproj.CoreCompileInputs.cache
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.csproj.CopyComplete
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.dll
+E:\Projects\_other\Monkeys.Project\Monkeys.Project.API\obj\Debug\Monkeys.Project.API.pdb
