@@ -17,6 +17,9 @@ G:\My Drive\Monkeys.Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils
 D:\GitHub\Monkeys-Project\Monkeys.Utils\bin\Debug\netstandard1.6\Monkeys.Utils.deps.json
 D:\GitHub\Monkeys-Project\Monkeys.Utils\bin\Debug\netstandard1.6\Monkeys.Utils.dll
 D:\GitHub\Monkeys-Project\Monkeys.Utils\bin\Debug\netstandard1.6\Monkeys.Utils.pdb
+D:\GitHub\Monkeys-Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.csprojAssemblyReference.cache
+D:\GitHub\Monkeys-Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.csproj.CoreCompileInputs.cache
+D:\GitHub\Monkeys-Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.AssemblyInfoInputs.cache
 D:\GitHub\Monkeys-Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.AssemblyInfo.cs
 D:\GitHub\Monkeys-Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.dll
 D:\GitHub\Monkeys-Project\Monkeys.Utils\obj\Debug\netstandard1.6\Monkeys.Utils.pdb

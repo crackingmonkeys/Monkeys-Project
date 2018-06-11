@@ -18,22 +18,12 @@ namespace Monkeys.Project.WebAPI.Controllers
         [Route("GetCurrentOilPrice")]
         public JsonResult GetCurrentOilPrice()
         {
-            string request = @"<?xml version=""1.0"" encoding=""utf - 8"" ?>
-            <soap:Envelope xmlns:xsi = ""http://www.w3.org/2001/XMLSchema-instance"" xmlns:xsd = ""http://www.w3.org/2001/XMLSchema"" xmlns:soap = ""http://schemas.xmlsoap.org/soap/envelope/"">
-                <soap:Body>
-                  <CurrentOilPrice xmlns = ""http://www.pttplc.com/ptt_webservice/"" >
-                     <Language>TH</Language>
-                   </CurrentOilPrice>
-                 </soap:Body>
-            </soap:Envelope>";
-
-            XDocument xDoc = XDocument.Load(new StringReader(request));
-            var unwrappedResponse = xDoc.Descendants((XNamespace)"http://schemas.xmlsoap.org/soap/envelope/" + "Body").First().FirstNode;
-
-            //string uri = "http://www.webservicex.net/stockquote.asmx/GetQuote?symbol=MSFT";
-            string uriWebService = "http://www.pttplc.com/webservice/pttinfo.asmx?op=CurrentOilPrice";
-            XDocument xmlResult = XDocument.Load(uriWebService);
-            return Json(new { test = xmlResult.Root.Value });
+            var z = "";
+            using (var xx = new PTTInfo())
+            {
+               z = xx.CurrentOilPrice("TH");
+            }
+            return Json(new { test = z });
         }
     }
 

@@ -3,7 +3,9 @@ D:\GitHub\Monkeys-Project\Monkeys.Project.WebAPI\bin\Debug\netcoreapp1.1\Monkeys
 D:\GitHub\Monkeys-Project\Monkeys.Project.WebAPI\bin\Debug\netcoreapp1.1\Monkeys.Project.WebAPI.runtimeconfig.dev.json
 D:\GitHub\Monkeys-Project\Monkeys.Project.WebAPI\bin\Debug\netcoreapp1.1\Monkeys.Project.WebAPI.dll
 D:\GitHub\Monkeys-Project\Monkeys.Project.WebAPI\bin\Debug\netcoreapp1.1\Monkeys.Project.WebAPI.pdb
-D:\GitHub\Monkeys-Project\Monkeys.Project.WebAPI\obj\Debug\netcoreapp1.1\Monkeys.Project.WebAPI.csprojResolveAssemblyReference.cache
+D:\GitHub\Monkeys-Project\Monkeys.Project.WebAPI\obj\Debug\netcoreapp1.1\Monkeys.Project.WebAPI.csprojAssemblyReference.cache
+D:\GitHub\Monkeys-Project\Monkeys.Project.WebAPI\obj\Debug\netcoreapp1.1\Monkeys.Project.WebAPI.csproj.CoreCompileInputs.cache
+D:\GitHub\Monkeys-Project\Monkeys.Project.WebAPI\obj\Debug\netcoreapp1.1\Monkeys.Project.WebAPI.AssemblyInfoInputs.cache
 D:\GitHub\Monkeys-Project\Monkeys.Project.WebAPI\obj\Debug\netcoreapp1.1\Monkeys.Project.WebAPI.AssemblyInfo.cs
 D:\GitHub\Monkeys-Project\Monkeys.Project.WebAPI\obj\Debug\netcoreapp1.1\Monkeys.Project.WebAPI.dll
 D:\GitHub\Monkeys-Project\Monkeys.Project.WebAPI\obj\Debug\netcoreapp1.1\Monkeys.Project.WebAPI.pdb
